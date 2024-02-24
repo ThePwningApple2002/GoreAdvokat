@@ -1,10 +1,12 @@
 login 
 kategorizacija, tip saveta koji se trazi
 chat text
+upload pdf/doc/txt/jpg/png
 video chat
 svi podaci koji se pamte o korisniku/advokatu
 razliciti korisnici advokati/korisnici
 nacin naplacivanja(uplatnica/kartica)
 kratak opis
+zakazivanje
 
 
